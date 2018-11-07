@@ -5,4 +5,4 @@ Este repositorio se utiliza para almacenar guías de estilo de localización par
 
 # Actualización de la documentación
 
-Utilizamos un repositorio (GitHub https://github.com/mozilla-l10n/styleguides/) para almacenar todos los documentos.
+Utilizamos un repositorio [GitHub](https://github.com/mozilla-l10n/styleguides/) para almacenar todos los documentos.
