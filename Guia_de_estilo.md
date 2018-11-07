@@ -1,6 +1,6 @@
 # Guía de estilo para el idioma (ab-CD)
 
-* [Formalidad y tono](Formalidad y tono)
+* [Formalidad y tono](Guia_de_estilo.md/Formalidad y tono)
 * [Expresión natural](Expresión natural)
 * [Referencias culturales, modismos y jerga](Referencias culturales, modismos y jerga)
 * [Unidades y conversión de unidades](Unidades y conversión de unidades)
