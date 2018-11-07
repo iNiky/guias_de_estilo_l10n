@@ -1,9 +1,11 @@
 # Guía de estilo para el idioma (ab-CD)
 
 * Formalidad y tono
-* [Expresión natural](Expresión natural)
-* [Referencias culturales, modismos y jerga](Referencias culturales, modismos y jerga)
-* [Unidades y conversión de unidades](Unidades y conversión de unidades)
+* Expresión natural
+* Referencias culturales, modismos y jerga
+* Unidades y conversión de unidades
+** Formato de fecha
+** Vista de calendario
 
 
 ## Formalidad y tono
