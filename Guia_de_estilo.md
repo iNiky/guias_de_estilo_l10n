@@ -110,6 +110,7 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 > Declar< cuáles son los separadores para tu sistema de números y cualquier otra información relevante. Esto se puede representar con una tabla. Borra los marcadores de comillas alrededor de la plantilla de ejemplo o muestra el formato con tu propio ejemplo.
 > 
 > Separador | Nombre del carácter | Símbolo | Ejemplo
+> --------- | ------------------- | ------- | -------
 > Decimal | Período | . | 1.23
 > Miles | Comas | , | 1,234
 > Porcentaje | Signo porcentual | % | 99.95% 
@@ -136,12 +137,15 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 > ```[País]
 > [código postal][estado/provincia][ciudad][distrito][distrito]
 > [número de la calle y nombre][número del edificio y de la suite]
-> [Destinatario]
-```
-
-
+> [Destinatario] ```
+> Los países de lenguas europeas empiezan de pequeños a grandes:
+> ```[Destinatario]
+> [número de la calle y nombre][número del edificio y de la suite]
+> [distrito][ciudad][estado/provincia][código postal]
+> [País]```
 
 ### Formato de número de teléfono
+
 ## Gramática
 ### Revisiones de ortografía y gramática
 ### Puntuación
