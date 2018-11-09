@@ -75,6 +75,7 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 >
 > Indica qué sistema de medición se utiliza en tu localidad para el peso, la distancia, etc. Indica cualquier otra información del sistema de medición o unidades de medida que sean relevantes para tu localidad.
 
+
 ### Formato de fecha
 
 > ¿Cómo se expresan los formatos de fecha para semanas y meses?
@@ -87,12 +88,59 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 > Abreviado | mmm dd | Dic 31
 > Largo | Mes y día,  año | Diciembre 31, 1999
 
+
 ### Vista de calendario
+
+> ¿Qué fecha se considera el primer día de la semana, domingo o lunes?
+>
+> ¿Se observa el calendario lunar? ¿Otro calendario regional observado?
+
+
 ### Formato de tiempo
+
+> ¿Cómo se expresa el tiempo en tu idioma?
+>
+> Indica cómo se expresa el tiempo, incluyendo la expresión de 0-24 horas, hora, minuto y segundo si es relevante.
+
+
 ### Numerales
+
+> ¿Cómo se expresan los números y porcentajes en tu idioma?
+>
+> Declar< cuáles son los separadores para tu sistema de números y cualquier otra información relevante. Esto se puede representar con una tabla. Borra los marcadores de comillas alrededor de la plantilla de ejemplo o muestra el formato con tu propio ejemplo.
+> 
+> Separador | Nombre del carácter | Símbolo | Ejemplo
+> Decimal | Período | . | 1.23
+> Miles | Comas | , | 1,234
+> Porcentaje | Signo porcentual | % | 99.95% 
+
 ### Moneda
+
+> ¿Qué moneda y símbolos se utilizan en tu país/idioma?
+>
+> Indica los símbolos de moneda que se utilizan en tu localidad. Si tu idioma cubre diferentes países o monedas o los símbolos de moneda común varían dependiendo de la base de cada proyecto, declara los diferentes tipos y usos.
+
+
 ### Unidades de medida
+
+> ¿Utilizas el sistema imperial, métrico o náutico para medir el peso, la distancia, etc.?
+
+
 ### Formato de dirección y código postal
+
+> ¿Cuál es el formato de la dirección en tu idioma?
+> 
+> Muestra el formato de dirección postal de tu localidad. Borra los marcadores de comillas alrededor de uno de los ejemplos o muestra el formato con tu propio ejemplo.
+>
+> Ejemplo: La mayoría de los países asiáticos empiezan de grandes a pequeños:
+> ```[País]
+> [código postal][estado/provincia][ciudad][distrito][distrito]
+> [número de la calle y nombre][número del edificio y de la suite]
+> [Destinatario]
+```
+
+
+
 ### Formato de número de teléfono
 ## Gramática
 ### Revisiones de ortografía y gramática
