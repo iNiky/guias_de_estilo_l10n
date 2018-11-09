@@ -137,12 +137,16 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 > ```[País]
 > [código postal][estado/provincia][ciudad][distrito][distrito]
 > [número de la calle y nombre][número del edificio y de la suite]
-> [Destinatario] ```
+> [Destinatario] 
+> ```
+>
 > Los países de lenguas europeas empiezan de pequeños a grandes:
+> 
 > ```[Destinatario]
 > [número de la calle y nombre][número del edificio y de la suite]
 > [distrito][ciudad][estado/provincia][código postal]
-> [País]```
+> [País]
+> ```
 
 ### Formato de número de teléfono
 
