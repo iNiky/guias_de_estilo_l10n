@@ -28,17 +28,11 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 ## Formalidad y tono
 
 >  ¿Quién es el usuario objetivo de este proyecto y cuáles son sus antecedentes?
-
 Describe brevemente los usuarios de tu local. Si el tipo de usuario de un proyecto a otro varía, indícalo aquí.
-
 ¿Cómo esperarías interactuar con un usuario objetivo de este proyecto?
-
 Describe el tipo de interacción que esperas que los usuarios de tu local. Las interacciones pueden variar de autoritarias y formales a amistosas y casuales. Indica qué tipo de tono prefieres en tu local.
-
 Describe las características que creas son el tono correcto. Por ejemplo, el español tiene múltiples formas del pronombre de la segunda persona. Generalmente, tu es considerado informal y personal y usted es considerado formal e impersonal. Las pautas de Mozilla Photon prefieren una interacción informal y personal; sin embargo, si la cultura de tu local prefiere una interacción formal, ésta debe ser declarada en la guía de estilo de tu comunidad.
-
 ¿Es el lenguaje formal o informal apropiado para todos los proyectos de Mozilla l10n en tu idioma, o sólo para algunos de ellos? ¿Cuáles?
-
 Si el tono varía de un proyecto a otro, indica qué tono es el mejor para cada proyecto.
 
 
