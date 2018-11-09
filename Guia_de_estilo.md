@@ -72,20 +72,20 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 ## Unidades y conversión de unidades
 
 >   ¿Tu localidad utiliza el sistema métrico o el sistema imperial?
-
-Indica qué sistema de medición se utiliza en tu localidad para el peso, la distancia, etc. Indica cualquier otra información del sistema de medición o unidades de medida que sean relevantes para tu localidad.
+>
+> Indica qué sistema de medición se utiliza en tu localidad para el peso, la distancia, etc. Indica cualquier otra información del sistema de medición o unidades de medida que sean relevantes para tu localidad.
 
 ### Formato de fecha
 
 > ¿Cómo se expresan los formatos de fecha para semanas y meses?
-
-Declara si las fechas están completamente explicadas, abreviadas o representadas de otra manera y el orden de año, mes y día. Esto se puede representar con una tabla. Borra los marcadores de comillas alrededor de la plantilla de ejemplo o muestra el formato con tu propio ejemplo.
-
-Nombre | Formato | Ejemplo 
------- | ------- | -------
-Breve  | mm/dd/yy | 12/31/99
-Abreviado | mmm dd | Dic 31
-Largo | Mes y día,  año | Diciembre 31, 1999
+>
+> Declara si las fechas están completamente explicadas, abreviadas o representadas de otra manera y el orden de año, mes y día. Esto se puede representar con una tabla. Borra los marcadores de comillas alrededor de la plantilla de ejemplo o muestra el formato con tu propio ejemplo.
+>
+> Nombre | Formato | Ejemplo 
+> ------ | ------- | -------
+> Breve  | mm/dd/yy | 12/31/99
+> Abreviado | mmm dd | Dic 31
+> Largo | Mes y día,  año | Diciembre 31, 1999
 
 ### Vista de calendario
 ### Formato de tiempo
