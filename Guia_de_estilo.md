@@ -150,8 +150,51 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 
 ### Formato de número de teléfono
 
+> ¿Cómo se expresan los números de teléfono en tu idioma?
+>
+> Muestra el formato del número de teléfono. ¿Cambia el formato de los números de teléfono móvil y fijo? Adapta la plantilla de ejemplo o muestra el formato con sus propios ejemplos.
+>
+> ```(###) ###-####
+> ```
+
 ## Gramática
+
 ### Revisiones de ortografía y gramática
+
+> ¿Tu idioma tiene revisiones ortográficas o gramaticales estándar?
+>
+> Enumera y explica cualquier referencia ortográfica o gramatical para tu idioma y la frecuencia con la que se deben utilizar.
+
+
 ### Puntuación
+
+> ¿Utilizas reglas de puntuación diferentes en tu localización de Mozilla que las que define el estándar de tu idioma?
+>
+> Describe cualquier variación en la puntuación de los proyectos de Mozilla a partir de los estándares lingüísticos. Si la puntuación varía de un proyecto a otro, enumera los proyectos que utilizan la puntuación variante.
+
+
 ### Espacios en blanco
+
+> ¿Tu idioma requiere el uso de espacios en blanco alrededor de palabras, oraciones, párrafos, etc.?
+>
+> Describe las reglas relevantes de los espacios en blanco en tu idioma en lo que respecta a la localización de Mozilla. Si los espacios en blanco varían de un proyecto a otro o dependiendo del elemento de la interfaz, describe cómo.
+
+
 ## Reglas de copiado
+
+> Por favor, deja la siguiente línea en tu guía de estilo a menos que no se aplique a tu localidad. Puedes traducirlo si tu  guía de estilo está en tu idioma.
+
+Lee acerca de los estilos de las reglas de copia en la [Guía de Estilo General de Mozilla L10n] (https://mozilla-l10n.github.io/styleguides/mozilla_general/#copy-rules).
+
+> ¿Existe un estándar internacional/nacional para la capitalización en tu idioma?
+>
+> Indica si tu idioma utiliza caso de título, caso de sentencia, mayúsculas o alguna otra estructura de capitalización. Si el estilo cambia para diferentes elementos textuales como títulos de películas, libros, nombres de marcas o elementos de la cara del usuario (Guardar, Archivar, etc.).
+>
+> ¿Es el estándar de mayúsculas apropiado para todos los proyectos de Mozilla l10n de tu idioma o sólo para algunos de ellos? ¿Cuáles?
+>
+> Si las reglas de copia en tu idioma cambian de un proyecto a otro, enumera las reglas de copia para cada proyecto.
+>
+> ¿Es el estándar de mayúsculas apropiado para todos los elementos de la interfaz de usuario en tu idioma o sólo para algunos de ellos? ¿Cuáles?
+>
+> ¿Existen otras convenciones tipográficas con respecto a las comillas, comillas, apóstrofes, uso de texto en negrita o cursiva, texto en mayúsculas, etc.?
+
