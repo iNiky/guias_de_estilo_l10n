@@ -184,7 +184,7 @@ Esta guía de estilo proporciona instrucciones para traducir a[El nombre de tu l
 
 > Por favor, deja la siguiente línea en tu guía de estilo a menos que no se aplique a tu localidad. Puedes traducirlo si tu  guía de estilo está en tu idioma.
 
-Lee acerca de los estilos de las reglas de copia en la [Guía de Estilo General de Mozilla L10n] (https://mozilla-l10n.github.io/styleguides/mozilla_general/#copy-rules).
+Lee acerca de los estilos de las reglas de copia en la [Guía de Estilo General de Mozilla L10n](https://mozilla-l10n.github.io/styleguides/mozilla_general/#copy-rules).
 
 > ¿Existe un estándar internacional/nacional para la capitalización en tu idioma?
 >
