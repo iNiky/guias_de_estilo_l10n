@@ -18,6 +18,8 @@
   * Espacios en blanco
 * Reglas de copiado
 
+> Inserta el nombre de tu local en la línea de abajo y déjalo en tu guía de estilo a menos que no se aplique a tu local. Puedes traducirlo si tu guía de estilo está en tu idioma.
+
 
 ## Formalidad y tono
 
